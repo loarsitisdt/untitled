@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("this is hot-fix");
         System.out.println("master");
+        System.out.println(" hot-fix Test");
     }
 }
