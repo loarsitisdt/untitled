@@ -4,5 +4,7 @@ public class Main {
         System.out.println("this is hot-fix");
         System.out.println("master");
         System.out.println(" hot-fix Test");
+        System.out.println(" hot-fix Test");
+        System.out.println(" push Test");
     }
 }
